@@ -4,4 +4,4 @@ layout: home
 
 # Bienvenide
 
-Soy Alexandra Borquez de la pobla de Playa Ancha.
+*Abanico de emociones, vivencias y reflexiones.*
