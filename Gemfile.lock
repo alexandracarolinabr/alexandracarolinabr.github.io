@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:a-chacon/wind.git
+  remote: https://github.com/a-chacon/wind.git
   revision: 529d820f481061be2680df24f3a09dc7b259ea22
   specs:
     wind (0.1.0)
