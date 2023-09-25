@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Hello
+# Bienvenide
 
-Soy Alendra y te voy a contar cosas.
+Soy Alexandra Borquez de la pobla de Playa Ancha.
