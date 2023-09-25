@@ -32,7 +32,7 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Custom Gem
         run: |
-          gem install ./wind-0.1.0.gem
+          gem install ./wind-0.1.0.gem --path vendor/bundle
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
