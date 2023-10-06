@@ -4,18 +4,10 @@ layout: page
 permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+¡Hola, soy la ale! pocos me conocen por mi nombre alexandra, bienvenide :)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+En un mundo lleno de té (obvio), gatos, caos y creatividad, he decidido embarcarme en la emocionante aventura de compartir mis pensamientos, experiencias, ideas, o simplemente temas que me parecen demasiado interesantes para compartir a través de este blog. ¿Por qué? Porque la vida es demasiado corta para no compartirla y reírnos de ella. 
 
+Gracias por visitar  y por ser parte. ¿Listo para comenzar?
 
-![](/fotopost1.jpg)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+¡Nos vemos en las páginas de este blog!
