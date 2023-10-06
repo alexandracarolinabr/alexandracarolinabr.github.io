@@ -2,6 +2,12 @@
 title: La Ira Femenina
 layout: post
 image: "/fotopost1.jpg"
+tag:
+- Ira
+- Femenina
+- Mujer
+- Sentimientos
+- Emociones
 ---
 
 **¿Porque la ira femenina resulta tan intimidante? Cuando nos sentimos culpables, deprimidas y no tenemos confianza en nosotras mismas, nos paralizamos y emprendemos acciones que van en contra nuestra. 
