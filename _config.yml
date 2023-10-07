@@ -37,6 +37,9 @@ plugins:
   - jekyll-seo-tag    
   - jekyll-feed
   - jekyll-admin
+  
+disqus:
+    shortname: www-estabien-cl
 
 # Exclude from processing.
 # The following items will not be processed, by default.
