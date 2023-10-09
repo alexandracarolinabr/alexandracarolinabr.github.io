@@ -5,6 +5,6 @@ tag:
 - Atreverse
 - Poder
 layout: post
-image: "/miedo.jpg"
+image: "/miedo1313.jpg"
 ---
 
