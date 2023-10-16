@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/a-chacon/wind.git
-  revision: 75662fb4bfa916f6204bfe8ae7e23a712ac7dc6b
+  revision: 38746a02538ee3d1e53e67c87832275deef03c56
   specs:
-    wind (0.1.3)
+    wind (0.0.1)
       jekyll (~> 4.3)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -107,7 +107,7 @@ DEPENDENCIES
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
-  wind (= 0.1.3)!
+  wind (= 0.0.1)!
 
 BUNDLED WITH
    2.4.19
