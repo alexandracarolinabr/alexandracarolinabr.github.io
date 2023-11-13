@@ -1,5 +1,5 @@
 ---
-title: La Desindividualización
+title: La Desindividualización.
 layout: post
 tag:
 - Relaciones

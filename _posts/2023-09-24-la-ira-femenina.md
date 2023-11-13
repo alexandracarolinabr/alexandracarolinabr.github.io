@@ -1,5 +1,5 @@
 ---
-title: La Ira Femenina
+title: La Ira Femenina.
 layout: post
 image: "/fotopost1.jpg"
 tag:
