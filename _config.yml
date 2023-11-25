@@ -32,7 +32,7 @@ github_username:  jekyll
 locale: es_Cl
 
 # Build settings
-theme: wind
+theme: wind-theme
 plugins:
   - jekyll-seo-tag    
   - jekyll-feed
