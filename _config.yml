@@ -29,7 +29,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estabien.cl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-locale: es_Cl
+locale: es_CL
+lang: es
 
 # Build settings
 theme: wind-theme
@@ -60,3 +61,16 @@ disqus:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+rrss:
+  # discord: hoola
+  # facebook: hola
+  # twitter: Hola
+  instagram: https://instagram.com/verdealte
+  # linkedin: Hola
+  # pinterest: hola
+  # whatsapp: 123
+  # telegram: 123
+  # email: email
+
+color: "#fc0086" 

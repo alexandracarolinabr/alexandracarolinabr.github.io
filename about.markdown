@@ -14,3 +14,5 @@ En un mundo lleno de té (obvio), gatos, caos y creatividad, he decidido embarca
 Gracias por visitar  y por ser parte. ¿Listo para comenzar?
 
 ¡Nos vemos en las páginas de este blog!
+
+![Yo Con mi Gata](/hola.jpg "yo con mi gata que no es mia")

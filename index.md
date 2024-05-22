@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Bienvenide
+# Bienvenid@s
 
 *Abanico de emociones, vivencias y reflexiones.*
