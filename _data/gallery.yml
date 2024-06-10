@@ -1,13 +1,13 @@
 photos:
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/200/300
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/800/800
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/1200/720
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/600/600
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/400/600
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/300/200
+  - description: esta imagen muestra la naturaleza
+    url: /assets/images/gallery/galeria1.jpg
+    quote: “Una oportunidad de convertir mi dolor en un don para compartirlo con otros”
+    
+  - description: esta imagen muestra un campo en la naturaleza
+    url: /assets/images/gallery/galeria2.jpg
+    quote: “Si te caes, te vuelves a levantar, como la vida”
+    
+  - description: esta imagen representa el movimiento y el fluir del cuerpo
+    url: /assets/images/gallery/galeria3.jpg
+    quote: “ Mi valor no lo define mi imagen fisica”
+ 

@@ -34,6 +34,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "wind-theme", "0.1.1"
+gem "wind-theme", "0.1.2"
 
 gem "webrick", "~> 1.8"
