@@ -10,4 +10,23 @@ photos:
   - description: esta imagen representa el movimiento y el fluir del cuerpo
     url: /assets/images/gallery/galeria3.jpg
     quote: “ Mi valor no lo define mi imagen fisica”
+    
+  - description: esta imagen representa la creatividad floreciendo 
+    url: /assets/images/gallery/galeria4.jpg
+    quote: “La meditación nos brinda una luz interior y el poder de transformar nuestra vida"
+    
+  - description: esta imagen es de un atardecer luego de viajar en bicicleta
+    url: /assets/images/gallery/galeria5.jpg
+    quote: “La musa mas potente de todas es nuestro propio niño interior." Stephen Nachmanovitch.
+    
+  - description: valparaiso, chile
+    url: /assets/images/gallery/galeria6.jpg
+    quote: “Talent is a pursued interest. In other words anything that you are willing to practice, you can do“
+    
+  - description: naturaleza y energia
+    url: /assets/images/gallery/galeria7.jpg
+    quote: “Si descuidas proteger tu mente, no podras cerrar la puerta al sufrimiento, ni abrir la puerta a la felicidad“
+    
+    
+    
  
