@@ -48,3 +48,8 @@ Esta búsqueda de perfección me genera mucha presión y un proceso de frustraci
 
 
 *Mención de honor para Maricel, mi amiga pastelera. Le agradezco profundamente por llevarme de la mano y concretar por mí algo que, de otra manera, me hubiera resultado difícil iniciar debido a todas esas limitaciones que uno mismo se impone. Gracias, Mari, por ser una gran amiga.*
+
+![haciendo ceramica](/assets/images/postceramica/ceramica1.jpg)
+![haciendo ceramica](/assets/images/postceramica/ceramica2.jpg)
+![haciendo ceramica](/assets/images/postceramica/ceramica3.jpg)
+
