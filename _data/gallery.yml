@@ -43,6 +43,21 @@ photos:
     url: /assets/images/gallery/galeria11.jpg
     quote: “Con esfuerzo y Perseverancia, Todo se Puede.“ Señor diciendole a otro señor en una conversacion de encuentro afuera de mi ventana en la calle“
     
+  - description: esta imagen es una pieza de arcilla
+    url: /assets/images/gallery/galeria12.jpg
+    quote: “No es que no podamos, porque si podemos. Es que realmente no sabemos como“ 
+    
+  - description: esta imagen es una escultura en Tarragona, España
+    url: /assets/images/gallery/galeria13.jpg
+    quote: “Mejor Hecho que Perfecto“ 
+    
+  - description: esta imagen de una arbol en las siete tazas, region del maule
+    url: /assets/images/gallery/galeria14.jpg
+    quote: “No medir mi exito con la bara de medir de alguien más“ 
+    
+  - description: esta imagen es un diseño hecho en la wacon
+    url: /assets/images/gallery/galeria15.jpg
+    quote: “No perfeccion, constancia“ 
     
     
  
