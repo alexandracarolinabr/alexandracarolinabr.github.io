@@ -8,7 +8,7 @@ tag:
 - Experiencia
 - Relato
 image: "/mariposas.jpg"
----  
+---
 
 **No es que no podamos, porque sí podemos, es que no sabemos cómo.**
 
